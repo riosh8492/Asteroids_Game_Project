@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/files">
+        <file>Standard_Ship_01.png</file>
+        <file>BACKGROUND.mp3</file>
+        <file>FIRE.mp3</file>
+        <file>HIT.mp3</file>
+        <file>asteroid_g.png</file>
+        <file>asteroid._b.png</file>
+        <file>asteroid_P_16.png</file>
+        <file>black_ball.png</file>
+        <file>black_ball_M.png</file>
+        <file>black_ball_S.png</file>
+        <file>Galaxy-illustration.jpg</file>
+        <file>Help.PNG</file>
+        <file>bullet_Purple.png</file>
+        <file>NEXTLEVEL.wav</file>
+        <file>OUCH.wav</file>
+    </qresource>
+</RCC>
